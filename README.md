@@ -30,7 +30,7 @@ El objetivo es de la prueba cumple con:
 1. Clonar este repositorio:
 
    ```bash
-   git clone https://.../prueba_mercadolibre.git
+   git clone https://github.com/leonardodarodriguez/prueba_mercado_libre.git
    cd prueba_mercadolibre
    ```
 
